@@ -24,9 +24,9 @@
   ### :woman_technologist: About Me :
 
   - I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Denmark.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  - :seedling: I work exclusively with ready-made layouts
-  - :zap: I prefer to use scss.
+  - :telescope: I work as a freelancer.
+  - :seedling: I work exclusively with ready-made layouts, mainly on Figma.
+  - :zap: I prefer to use scss instead of css.
   - ⭐I can make sliders using the tinu-slider library.
 
 
