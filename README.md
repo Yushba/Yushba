@@ -3,9 +3,6 @@
 
   <div id="badges">
 
-  <h3>TELEGRAM </h3>
-  <h6> User name: @Yushba </h6>
-
   <img src="https://komarev.com/ghpvc/?username=Yushba&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
